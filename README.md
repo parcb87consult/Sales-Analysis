@@ -48,6 +48,7 @@ The exploratory data analysis was to explore the data to be able to answer key q
 2. Which products were top sellers?
 3. What were the peak sales period?
 
+![Screenshot (59)](https://github.com/user-attachments/assets/9a235009-2372-4a9f-9c7b-b0020a93d600)
 
 ### The Analysis of the Sales Data
 This include some interesting codes and features that were scripted and engineered during the exploratory data analysis (EDA) phase.
